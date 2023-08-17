@@ -16,7 +16,7 @@ Jiwon Kang*, Young Jin Yoo*, **Jin-Hwi Park***, Joo Hwan Ko, Seungtaek Kim, Stef
 
 ## Results
 ### Quantification of bioparticles
-![DeepGT_teaser](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/855a59ea-5b2a-4c33-9bcb-c1318520037b)
+![result](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/30ec12bb-3892-4dcf-8e28-c450effc3ca0)
 
 ### Detection of Artifacts and Complex Forms
 ![Detection of Artifacts and Complex Forms](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/76edd42c-e3bb-45cd-9210-82537d953d6e)
