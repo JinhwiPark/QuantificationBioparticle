@@ -3,6 +3,8 @@ Jiwon Kang*, Young Jin Yoo*, **Jin-Hwi Park***, Joo Hwan Ko, Seungtaek Kim, Stef
 
  Accepted to Nano Today (IF: 18.962)
 
+ **Code is not complete yet.**
+
 ## Overview
 ![teaser2](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/5138cc24-763d-4fd5-8a02-347c453f2dcf)
 
