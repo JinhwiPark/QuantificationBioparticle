@@ -8,11 +8,11 @@ Jiwon Kang*, Young Jin Yoo*, **Jin-Hwi Park***, Joo Hwan Ko, Seungtaek Kim, Stef
 ## Overview
 <img src="https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/5138cc24-763d-4fd5-8a02-347c453f2dcf.png">
 
-## Data Annotation
-<p align="center"><img src="[image_src](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/beca7325-b9d3-45e1-991d-9267d8363094.gif)" width="600"></p>
-
 ## Dataset Construction
 ![Dataset Construction](https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/fc894e06-692d-4293-b122-272c2eaa959e)
+
+## Data Annotation
+<img src="https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/beca7325-b9d3-45e1-991d-9267d8363094.gif">
 
 ## Results
 ### Quantification of bioparticles
