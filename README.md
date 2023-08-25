@@ -1,8 +1,11 @@
 # DeepGT: Deep learning-based quantification of nanosized bioparticles in bright-field micrographs of Gires-Tournois biosensor
 Jiwon Kang*, Young Jin Yoo*, **Jin-Hwi Park***, Joo Hwan Ko, Seungtaek Kim, Stefan G. Stanciu, Harald A. Stenmark, Jin Ah Lee, Abdullah Al Mahmud, [Hae-Gon Jeon](https://sites.google.com/site/hgjeoncv/home?authuser=0) and [Young Min Song](https://www.gist-foel.net/) (* equally contributed)
 
- Accepted to Nano Today (IF: 18.962)
+ 
+ 
 <img src = "https://github.com/JinhwiPark/QuantificationBioparticle/assets/70624468/c772803d-332a-4ae9-8473-a2448e5ef5d1" width="25%" height="25%">
+
+Accepted to Nano Today (IF: 17.4)
 
  **Code is not complete yet.**
 
