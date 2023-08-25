@@ -7,6 +7,8 @@ Jiwon Kang*, Young Jin Yoo*, **Jin-Hwi Park***, Joo Hwan Ko, Seungtaek Kim, Stef
 
 Accepted to Nano Today (IF: 17.4)
 
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1748013223002177) [[Code]](https://github.com/JinhwiPark/QuantificationBioparticle)
+
  **Code is not complete yet.**
 
 ## Overview
